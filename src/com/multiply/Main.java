@@ -13,6 +13,7 @@ public class Main {
 		int number = scanner.nextInt();
 		
 		multiply.printMultiply(number);
+		//This is a Git Test
 
 	}
 
